@@ -1,1 +1,1 @@
-[{"title":"年鉴2018","date":"2019.01.22","uri":"2019/01/22/年鉴/","excerpt":""},{"title":"Hello World","date":"2019.01.22","uri":"2019/01/22/hello-world/","excerpt":""}]
+[{"title":"年鉴2018","date":"2019.01.22","uri":"2019/01/22/年鉴/","excerpt":""},{"title":"Hello World","date":"2019.01.22","uri":"2019/01/22/hello-world/","excerpt":""},{"title":"与时间赛跑","date":"2019.01.23","uri":"2019/01/23/与时间赛跑/","excerpt":""}]
